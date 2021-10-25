@@ -17,6 +17,6 @@ Here the result maps for K-means Clustering in Asia which create with [Tableau](
 
 Data frame [file](https://github.com/arinr/K-means-Cluster-for-Clustering-COVID-19-in-Asia/blob/37ea67332c536fa174fb23534028e5093b8fd237/Hasil%20k-means.xlsx) from result of k-means.
 
-Based on the results of clustering using the K-means method, the countries of Israel, Iran, Jordan, Lebanon, Palestine, Georgia, and Armenia are included in cluster 1. While other countries are included in cluster 2. Cluster 1 is a cluster with high deaths per 1 million population. .
+Based on the results of clustering using the K-means method, the countries of Israel, Iran, Jordan, Lebanon, Palestine, Georgia, and Armenia are included in cluster 1. While other countries are included in cluster 2. Cluster 1 is a cluster with high deaths per 1 million population.
 
 Therefore, the Indonesian government should limit people visiting Indonesia from that country in order to minimize the chain of spread of COVID-19.
